@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/beerendra-rawat" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/980/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="beerendra-rawat" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/beerendra-rawat" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/980/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="beerendra-rawat" height="60" width="60" /></a>
 <a href="https://instagram.com/roshan_s07" target="blank"><img align="center" src="https://i.pinimg.com/originals/72/9f/77/729f7798561be2cb67f39e916a22eb6a.png" height="40" width="40"  /></a>
 
 </p>
