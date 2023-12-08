@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/beerendra-rawat" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F157910%2Flinkedin&psig=AOvVaw3C69WWE2hY8irGUoNLuZo0&ust=1699072987024000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLDj7aGCp4IDFQAAAAAdAAAAABAE)" alt="beerendra-rawat" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/beerendra-rawat" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/980/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="beerendra-rawat" height="50" width="40" /></a>
+<a href="https://instagram.com/roshan_s07" target="blank"><img align="center" src="https://i.pinimg.com/originals/72/9f/77/729f7798561be2cb67f39e916a22eb6a.png" height="40" width="40"  /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
